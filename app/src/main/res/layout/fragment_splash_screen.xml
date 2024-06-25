@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.SplashScreenFragment"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+
+     <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/back1"
+        tools:layout_editor_absoluteX="56dp"
+        tools:layout_editor_absoluteY="102dp"
+         android:id="@+id/back1"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="115dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginBottom="129dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Think Tank"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/icon"
+        android:layout_margin="30dp"
+
+        android:id="@+id/icon"/>
+
+
+
+
+</RelativeLayout>

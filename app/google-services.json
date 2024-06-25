@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478147842964",
+    "project_id": "think-tank-ffdc3",
+    "storage_bucket": "think-tank-ffdc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478147842964:android:4cba837a50a2134e91f581",
+        "android_client_info": {
+          "package_name": "ir.shariaty.thinktank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVvEaOq21mPBpx3zeJfw0J6DxS9Vp7XSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
